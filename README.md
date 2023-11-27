@@ -11,6 +11,7 @@ To run the program:
 
 The program is a simple GUI that allows you to draw gray 24 x 24 images<br>
 using a magnified canvas. Finally, it allows you to save each image at the desired location.
+# Use the left mouse button to draw and the right mouse button to erase
 
 Example of using the program:<br>
 * Initial window with default saving path:<br>
