@@ -13,11 +13,11 @@ The program is a simple GUI that allows you to draw gray 24 x 24 images<br>
 using a magnified canvas. Finally, it allows you to save each image at the desired location.
 
 Example of using the program:<br>
-* Initial window with default saving path
+* Initial window with default saving path<br>
 ![Initial window](imgs/initial_window.png)
-* An example of using canvas
+* An example of using canvas<br>
 ![Weird five](imgs/five.png)
-* Saving the file dialogue window to the default location
+* Saving the file dialogue window to the default location<br>
 ![Save current image](imgs/save_window.png)
 
 **The image will be scalled down to 24 x 24, so it can be used in the EA1.**<br>
