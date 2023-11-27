@@ -103,7 +103,7 @@ class App(tk.Tk):
 
 
 root = App()
-root.title("Test")
+root.title("EA2")
 root.set_geometries()
 root.set_binds()
 
